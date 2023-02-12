@@ -1,0 +1,66 @@
+.css-year-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+
+.css-select-width{
+  width: 200px;
+}
+
+.css-location-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.css-chartType-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.css-select-ccontainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap:30px
+}
+
+.css-button-itself{
+  background-color: yellowgreen;
+  border-radius: 15px;
+  color: white;
+  border-width: 0;
+  width: 100px;
+  height: 40px;
+}
+
+.css-button-itself:hover{
+  cursor: pointer;
+}
+
+.css-charts-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.css-bg-container{
+  padding: 30px;
+  height: 100vh;
+}
+
+.css-input-itself{
+  margin-left: 20px;
+  /* width: 300px; */
+}
+
+.css-icon-image{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
